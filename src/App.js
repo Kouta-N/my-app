@@ -77,7 +77,7 @@ function HelloWorld(props) {
       setLastName("");
       setDob("");
 
-      firstNameRef.current.value = "";
+      firstNameRef.current.value = "first value";
   }
 
   return (
